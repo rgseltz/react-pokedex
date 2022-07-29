@@ -1,0 +1,20 @@
+.Pokedex {
+    border: black solid 5px;
+    justify-content: flex-end;
+    margin: 50px;
+}
+
+.Pokedex-header {
+    text-align: center;
+}
+
+.Pokedex-container {
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 876.4px;
+    height: 528.1px;
+    padding-left: 15px;
+}

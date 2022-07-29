@@ -1,0 +1,17 @@
+.PokeCard {
+    border : 5px black solid;
+    margin:10px;
+    width: 150px; 
+}
+
+.PokeCard-header {
+    text-align: center;
+}
+
+.PokeCard-type {
+    text-align: center;
+}
+
+.PokeCard-image {
+    padding-left: 25px;
+}
